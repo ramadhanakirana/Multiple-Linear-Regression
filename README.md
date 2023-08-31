@@ -1,5 +1,5 @@
 # Multiple Linear Regression
-🛠️ Tools: Google Data Studio (Looker Studio) <br>
+🛠️ Tools: Python (Google Colab Notebooks) <br>
 💁 Dataset: From Kaggle, [here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 ## 📄 Overview
